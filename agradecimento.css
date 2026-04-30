@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo-principal
+{
+    color: #01285b;
+    padding-left: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+nav
+{
+    padding-left: 20px;
+}
+
+nav a
+{
+    text-decoration: none; 
+    font-size: 18px;
+    /*display: block;*/
+    margin: 20px;
+     color: #0A3B7D;
+}
+
+footer p
+{
+    text-align: center;
+    padding: 10px;
+    background-color: #121D5F;
+    color: white;
+    font-size: 14px;
+}
